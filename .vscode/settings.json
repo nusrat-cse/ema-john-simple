@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "": true
+    },
+    "search.exclude": {
+        "": true
+    },
+    "emmet.preferences": {
+    },
+        "emmet.includeLanguages": {
+            "javascript": "javascriptreact",
+    }
+}
